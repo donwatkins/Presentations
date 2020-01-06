@@ -8,4 +8,5 @@
 3. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
 4. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
 5. [Free and open source software](https://ninite.com/)
-6. [Signal:Secure Messaging App](https://signal.org/)
+6. [Mobile Security Card Tips](https://www.dhs.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
+7. [Signal:Secure Messaging App](https://signal.org/)
