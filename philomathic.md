@@ -9,4 +9,6 @@
 4. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
 5. [Free and open source software](https://ninite.com/)
 6. [Mobile Security Card Tips](https://www.dhs.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
-7. [Signal:Secure Messaging App](https://signal.org/)
+7. [Mobile Security While Traveling](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_2.pdf)
+8. [Internet of Things Tip Card](https://www.dhs.gov/sites/default/files/publications/Internet%20of%20Things%20Tip%20Card_4.pdf)
+9. [Signal:Secure Messaging App](https://signal.org/)
