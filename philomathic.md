@@ -12,3 +12,6 @@
 7. [Mobile Security While Traveling](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_2.pdf)
 8. [Internet of Things Tip Card](https://www.dhs.gov/sites/default/files/publications/Internet%20of%20Things%20Tip%20Card_4.pdf)
 9. [Signal:Secure Messaging App](https://signal.org/)
+
+## Use Google Chrome to suggest a strong password
+![Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
