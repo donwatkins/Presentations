@@ -19,3 +19,11 @@
 
 ### Use Google Chrome to suggest a strong password
 ![Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
+---
+### Computer suggestions
+1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
+2. [Dell Refurbished Computers](https://www.dellrefurbished.com/)
+3. [Apple MacOS](https://www.apple.com/shop/refurbished/mac)
+4. [Chromebook](https://www.google.com/chromebook/)
+5. [System76](https://system76.com/)
+
