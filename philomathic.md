@@ -51,3 +51,8 @@
 1. [AdBlock](https://getadblock.com/)
 2. [Ghostery](https://www.ghostery.com/)
 
+---
+
+### Search Engines for privacy
+1. [DuckDuckGo](https://duckduckgo.com/)
+
