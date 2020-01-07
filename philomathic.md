@@ -18,7 +18,7 @@
 ---
 ### Password Managers
 [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
-
+---
 ### Use Google Chrome to suggest a strong password
 ![Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
 ---
