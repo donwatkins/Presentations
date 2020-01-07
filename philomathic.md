@@ -12,17 +12,24 @@
 7. [Mobile Security While Traveling](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_2.pdf)
 8. [Internet of Things Tip Card](https://www.dhs.gov/sites/default/files/publications/Internet%20of%20Things%20Tip%20Card_4.pdf)
 9. [Signal:Secure Messaging App](https://signal.org/)
+
 ---
+
 ### Password Security Tips from Firefox
 [How to create a strong password](https://blog.mozilla.org/firefox/how-to-create-strong-passwords/)
+
 ----
+
 ### Password Managers
 [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
+
 ----
 
 ### Use Google Chrome to suggest a strong password
 ![Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
+
 ----
+
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
 2. [Dell Refurbished Computers](https://www.dellrefurbished.com/)
@@ -30,12 +37,16 @@
 4. [Chromebook](https://www.google.com/chromebook/)
 5. [System76 - High quality Linux systems](https://system76.com/)
 6. [Dell-Linux Systems](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems)
+
 ----
+
 ### Browser suggestions
 1. [Chrome Browser](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 3. [Opera](https://www.opera.com/)
+
 ----
+
 ### Ad blocking
 1. [AdBlock](https://getadblock.com/)
 2. [Ghostery](https://www.ghostery.com/)
