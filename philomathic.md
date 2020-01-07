@@ -27,4 +27,13 @@
 4. [Chromebook](https://www.google.com/chromebook/)
 5. [System76 - High quality Linux systems](https://system76.com/)
 6. [Dell-Linux Systems](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems)
+---
+### Browser suggestions
+1. [Chrome Browser](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
+2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+3. [Opera](https://www.opera.com/)
+---
+### Ad blocking
+1. [AdBlock](https://getadblock.com/)
+2. [Ghostery](https://www.ghostery.com/)
 
