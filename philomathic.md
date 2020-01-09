@@ -3,7 +3,7 @@
 ## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
 
 ## Resources:
-1. [Stop,Think,Connect:Older American Resources](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
+1. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
 2. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
 3. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
 4. [Free and open source software](https://ninite.com/)
