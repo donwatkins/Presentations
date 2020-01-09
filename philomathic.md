@@ -60,3 +60,9 @@
 ### Clean your system
 1. [Bleachbit](https://www.bleachbit.org/)
 
+---
+
+### Disposal of old computers, tablets and phones
+[Proper disposal of electronic devices](https://www.us-cert.gov/ncas/tips/ST18-005)
+
+
