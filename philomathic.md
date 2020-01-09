@@ -8,8 +8,7 @@
 3. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
 4. [Free and open source software](https://ninite.com/)
 5. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
-6. [Internet of Things Tip Card](https://www.dhs.gov/sites/default/files/publications/Internet%20of%20Things%20Tip%20Card_4.pdf)
-7. [Signal:Secure Messaging App](https://signal.org/)
+6. [Signal:Secure Messaging App](https://signal.org/)
 
 ---
 
