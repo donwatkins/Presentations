@@ -63,7 +63,7 @@
 ---
 
 ### Disposal of old computers, tablets and phones
-[Proper disposal of electronic devices](https://www.us-cert.gov/ncas/tips/ST18-005)
-[EPA Guidelines for Recycling Electronic Devices](https://www.epa.gov/recycle/electronics-donation-and-recycling)
+1. Proper disposal of electronic devices](https://www.us-cert.gov/ncas/tips/ST18-005)
+2. [EPA Guidelines for Recycling Electronic Devices](https://www.epa.gov/recycle/electronics-donation-and-recycling)
 
 
