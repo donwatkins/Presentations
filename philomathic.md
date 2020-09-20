@@ -1,4 +1,4 @@
-#  Franklinville Philomathic Talk on Cybersecurity
+#  Philomathic Talk on Cybersecurity
 
 ## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
 
