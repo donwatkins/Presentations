@@ -29,17 +29,18 @@
 
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
-2. [Dell Refurbished Computers](https://www.dellrefurbished.com/)
-3. [Apple MacOS](https://www.apple.com/shop/refurbished/mac)
-4. [Chromebook](https://www.google.com/chromebook/)
-5. [System76 - High quality Linux systems](https://system76.com/)
-6. [Free Geek](https://www.ebay.com/str/freegeekbasicsstore)
+2. [Free Geek](https://www.ebay.com/str/freegeekbasicsstore)
+3. [Dell Refurbished Computers](https://www.dellrefurbished.com/)
+4. [Apple MacOS](https://www.apple.com/shop/refurbished/mac)
+5. [Chromebook](https://www.google.com/chromebook/)
+6. [System76 - High quality Linux systems](https://system76.com/)
 ----
 
 ### Browser suggestions
 1. [Chrome Browser](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 3. [Opera](https://www.opera.com/)
+4. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
 ----
 
