@@ -33,8 +33,7 @@
 3. [Apple MacOS](https://www.apple.com/shop/refurbished/mac)
 4. [Chromebook](https://www.google.com/chromebook/)
 5. [System76 - High quality Linux systems](https://system76.com/)
-6. [Dell-Linux Systems](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems)
-7. [Free Geek](https://www.freegeek.org/shop/)
+6. [Free Geek](https://www.ebay.com/str/freegeekbasicsstore)
 ----
 
 ### Browser suggestions
