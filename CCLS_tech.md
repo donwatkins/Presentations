@@ -30,8 +30,8 @@
 ----
 
 ### Password Managers
-[Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
-[Bitwarden](https://bitwarden.com/)
+1. [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
+2. [Bitwarden](https://bitwarden.com/)
 
 ----
 
