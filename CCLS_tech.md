@@ -10,9 +10,8 @@
 6. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
 7. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
 8. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
-9. [Free and open source software](https://ninite.com/)
-10. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
-11. [Signal:Secure Messaging App](https://signal.org/)
+9. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
+10. [Signal:Secure Messaging App](https://signal.org/)
 
 ---
 ## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
@@ -20,7 +19,8 @@
 ### Password Security Tips from Firefox
 [How to create a strong password](https://blog.mozilla.org/firefox/how-to-create-strong-passwords/)
 
-----
+### Use Google Chrome to suggest a strong password
+![Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
 
 ### Password Managers
 1. [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
@@ -28,8 +28,6 @@
 
 ----
 
-### Use Google Chrome to suggest a strong password
-![Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
 
 ----
 
