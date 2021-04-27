@@ -2,15 +2,11 @@
 
 ## These sites have resources that we might use :
 
-[GCF Global](https://edu.gcfglobal.org/en/) 
-
-[Common Sense Media](https://www.commonsensemedia.org/blog) 
-
-[Khan Academy](https://www.khanacademy.org/) 
-
-[Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
-
-[Collection of Free and open source programs for Windows 10 computers](https://ninite.com) 
+1. [GCF Global](https://edu.gcfglobal.org/en/) 
+2. [Common Sense Media](https://www.commonsensemedia.org/blog) 
+3. [Khan Academy](https://www.khanacademy.org/) 
+4. [Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
+5. [Collection of Free and open source programs for Windows 10 computers](https://ninite.com) 
 
 ## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
 
