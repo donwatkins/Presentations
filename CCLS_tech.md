@@ -19,8 +19,8 @@
 ### Password Security Tips from Firefox
 [How to create a strong password](https://blog.mozilla.org/firefox/how-to-create-strong-passwords/)
 
-### Use Google Chrome to suggest a strong password
-![Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
+#### Use Google Chrome to suggest a strong password
+[Suggest a strong password](https://github.com/donwatkins/presentations/blob/master/images/Google_ChromePasswords.png)
 
 ### Password Managers
 1. [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
