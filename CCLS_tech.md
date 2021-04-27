@@ -26,11 +26,6 @@
 1. [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
 2. [Bitwarden](https://bitwarden.com/)
 
-----
-
-
-----
-
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
 2. [Free Geek](https://www.ebay.com/str/freegeekbasicsstore)
