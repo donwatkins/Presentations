@@ -7,18 +7,15 @@
 3. [Khan Academy](https://www.khanacademy.org/) 
 4. [Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
 5. [Collection of Free and open source programs for Windows 10 computers](https://ninite.com) 
-
-## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
-
-## Resources:
-1. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
-2. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
-3. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
-4. [Free and open source software](https://ninite.com/)
-5. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
-6. [Signal:Secure Messaging App](https://signal.org/)
+6. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
+7. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
+8. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
+9. [Free and open source software](https://ninite.com/)
+10. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
+11. [Signal:Secure Messaging App](https://signal.org/)
 
 ---
+## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
 
 ### Password Security Tips from Firefox
 [How to create a strong password](https://blog.mozilla.org/firefox/how-to-create-strong-passwords/)
