@@ -66,7 +66,7 @@
 
 ### These sites have resources that we might use :
 
-[GCF Global] (https://edu.gcfglobal.org/en/) 
+[GCF Global](https://edu.gcfglobal.org/en/) 
 
 Common Sense Media
 
