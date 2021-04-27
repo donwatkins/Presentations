@@ -1,4 +1,16 @@
-#  Philomathic Talk on Cybersecurity
+# Patron and Staff Training Resources for public libraries. 
+
+## These sites have resources that we might use :
+
+[GCF Global](https://edu.gcfglobal.org/en/) 
+
+[Common Sense Media](https://www.commonsensemedia.org/blog) 
+
+[Khan Academy](https://www.khanacademy.org/) 
+
+[Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
+
+[Collection of Free and open source programs for Windows 10 computers](https://ninite.com) 
 
 ## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
 
@@ -19,6 +31,7 @@
 
 ### Password Managers
 [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
+[Bitwarden](https://bitwarden.com/)
 
 ----
 
@@ -64,16 +77,6 @@
 1. [Proper disposal of electronic devices](https://www.us-cert.gov/ncas/tips/ST18-005)
 2. [EPA Guidelines for Recycling Electronic Devices](https://www.epa.gov/recycle/electronics-donation-and-recycling)
 
-## These sites have resources that we might use :
 
-[GCF Global](https://edu.gcfglobal.org/en/) 
-
-[Common Sense Media](https://www.commonsensemedia.org/blog) 
-
-[Khan Academy](https://www.khanacademy.org/) 
-
-[Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
-
-[Collection of Free and open source programs for Windows 10 computers](https://ninite.com) 
 
 
