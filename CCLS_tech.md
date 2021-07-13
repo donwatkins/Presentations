@@ -2,16 +2,17 @@
 
 ## These sites have resources that we might use :
 
-1. [GCF Global](https://edu.gcfglobal.org/en/) 
-2. [Common Sense Media](https://www.commonsensemedia.org/blog) 
-3. [Khan Academy](https://www.khanacademy.org/) 
-4. [Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
-5. [Collection of Free and open source programs for Windows 10 computers](https://ninite.com) 
-6. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
-7. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
-8. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
-9. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
-10. [Signal:Secure Messaging App](https://signal.org/)
+1. [Microsoft Office Training](https://edu.gcfglobal.org/en/subjects/office/)
+2. [Office 365 Training Resources](https://support.microsoft.com/en-us/training)
+3. [Common Sense Media](https://www.commonsensemedia.org/blog) 
+4. [Khan Academy](https://www.khanacademy.org/) 
+5. [Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
+6. [Collection of Free and open source programs for Windows 10 computers](https://ninite.com) 
+7. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
+8. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
+9. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
+10. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
+11. [Signal:Secure Messaging App](https://signal.org/)
 
 ---
 ## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
