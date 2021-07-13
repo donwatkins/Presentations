@@ -74,6 +74,7 @@
 8. [Smithsonian Learning Lab](https://learninglab.si.edu/)
 9. [Khan Academy](https://www.khanacademy.org/)
 10. [MIT Open Courseware](https://ocw.mit.edu/high-school/)
+11. [Code Academy](https://www.codecademy.com/)
 
 ### Low Cost Educational Resources
 1. [Udemy](https://www.udemy.com/)
