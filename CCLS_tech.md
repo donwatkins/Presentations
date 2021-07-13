@@ -65,6 +65,10 @@
 1. [Proper disposal of electronic devices](https://www.us-cert.gov/ncas/tips/ST18-005)
 2. [EPA Guidelines for Recycling Electronic Devices](https://www.epa.gov/recycle/electronics-donation-and-recycling)
 
+---
+### Free Educational Resources 
+1. [Saylor Academy is a nonprofit initiative working since 2008 to offer free and open online courses to all who want to learn. ](https://www.saylor.org/)
+
 
 
 
