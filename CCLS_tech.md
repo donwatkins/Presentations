@@ -74,6 +74,8 @@
 5. [Massive Open Online Courses](https://www.mooc.org/)
 6. [Free Textbooks at Rice University](https://openstax.org/)
 7. [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)
+8. [Smithsonian Learning Lab](https://learninglab.si.edu/)
+9. [Khan Academy](https://www.khanacademy.org/)
 
 ### Low Cost Educational Resources
 1. [Udemy](https://www.udemy.com/)
