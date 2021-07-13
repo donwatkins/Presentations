@@ -68,6 +68,10 @@
 ---
 ### Free Educational Resources 
 1. [Saylor Academy is a nonprofit initiative working since 2008 to offer free and open online courses to all who want to learn. ](https://www.saylor.org/)
+2. [OER Commons](https://www.oercommons.org/)
+3. [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
+4. [150 Free Online Business Courses](https://www.openculture.com/business_free_courses)
+5. [Massive Open Online Courses](Massive Open Online Courses)
 
 
 
