@@ -72,6 +72,8 @@
 3. [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
 4. [150 Free Online Business Courses](https://www.openculture.com/business_free_courses)
 5. [Massive Open Online Courses](https://www.mooc.org/)
+6. [Free Textbooks at Rice University](https://openstax.org/)
+7. [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)
 
 ### Low Cost Educational Resources
 1. [Udemy](https://www.udemy.com/)
