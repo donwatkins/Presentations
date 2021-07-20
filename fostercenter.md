@@ -15,9 +15,10 @@
 
 ### Free Productivity Software Suite
 1. [Libreoffice](https://www.libreoffice.org)
-2. [OnlyOffice](https://www.onlyoffice.com/home-use.aspx)
-3. [Google Mail](https://gmail.com)
-4. [Open Office](https://Openoffice.org)
+2. [Google Mail](https://gmail.com)
+
+### Install Free and open source software for Microsoft Windows
+1. [Ninite](https://ninite.com)
 
 ---
 ## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
@@ -28,8 +29,7 @@
 ---
 
 ### Password Managers
-1. [Free Password Managers](https://www.wired.com/2016/01/you-need-a-password-manager/)
-2. [Bitwarden](https://bitwarden.com/)
+1. [Bitwarden](https://bitwarden.com/)
 
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
