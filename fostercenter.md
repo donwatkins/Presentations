@@ -46,6 +46,9 @@
 3. [Opera](https://www.opera.com/)
 4. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
+### Videoconferencing applications
+1. [Jitsi](https://jitsi.org/)
+
 ----
 
 ### Ad blocking
