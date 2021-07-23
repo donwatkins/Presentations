@@ -45,6 +45,7 @@
 2. [Ardour](http://ardour.org/)
 3. [Twitch](https://www.twitch.tv/)
 4. [Open Broadcaster Software](https://obsproject.com/)
+5. [YouTube Studio](https://studio.youtube.com/)
 
 
 
