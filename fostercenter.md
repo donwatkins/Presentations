@@ -34,6 +34,19 @@
 7. [The Will to Survive](https://www.amazon.com/Will-Survive-Karen-Zale/dp/0359013767)
 8. [Kindle Direct Publishing](https://kdp.amazon.com/en_US/)
 
+### Free and open source graphics
+1. [Open Clipart](https://openclipart.org)
+2. [Creative Commons](https://search.creativecommons.org/)
+
+---
+
+### Free podcasting resources
+1. [Audacity](https://www.audacityteam.org/)
+2. [Ardour](http://ardour.org/)
+3. [Twitch](https://www.twitch.tv/)
+4. [Open Broadcaster Software](https://obsproject.com/)
+
+
 
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
