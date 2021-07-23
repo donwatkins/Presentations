@@ -19,7 +19,7 @@
 
 ### Free Productivity Software Suite
 1. [Libreoffice](https://www.libreoffice.org)
-2. [Google Mail](https://gmail.com)
+2. [Google Drive](https://drive.google.com/)
 
 ### Install Free and open source software for Microsoft Windows
 1. [Ninite](https://ninite.com)
@@ -39,8 +39,7 @@
 1. [Chrome Browser](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 3. [Opera](https://www.opera.com/)
-4. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
-5. 
+4. [Microsoft Edge](https://www.microsoft.com/en-us/edge) 
 ---
 
 ### Videoconferencing applications
