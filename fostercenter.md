@@ -24,6 +24,14 @@
 ### Install Free and open source software for Microsoft Windows
 1. [Ninite](https://ninite.com)
 
+### Free Blogging and web publishing
+1. [Wordpress](https://wordpress.com)
+2. [Wix](https://wix.com)
+3. [Blogger](https://blogger.com)
+4. [Medium](https://medium.com)
+5. [Tumblr](https://tumblr.com)
+6. [Lulu](https://www.lulu.com/)
+7. [Kindle Direct Publishing](https://kdp.amazon.com/en_US/)
 
 
 ### Computer suggestions
