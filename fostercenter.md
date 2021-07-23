@@ -81,9 +81,17 @@
 8. [Smithsonian Learning Lab](https://learninglab.si.edu/)
 9. [Khan Academy](https://www.khanacademy.org/)
 10. [MIT Open Courseware](https://ocw.mit.edu/high-school/)
-11. [Code Academy](https://www.codecademy.com/)
+11. [Code Academy](https://www.codecademy.com/)[
 
 ### Low Cost Educational Resources
 1. [Udemy](https://www.udemy.com/)
 2. [Edx](https://edx.org)
 3. [Coursera](https://www.coursera.org/)
+
+### Free EBooks & other resources
+1. [800 Free Ebooks](https://www.openculture.com/free_ebooks)
+2. [1000 Free Audiobooks](https://www.openculture.com/freeaudiobooks)
+3. [Project Gutenberg](https://gutenberg.org)
+4. [200 Free textbooks](https://www.openculture.com/free_textbooks)
+5. [Free Language Lessons](https://www.openculture.com/freelanguagelessons)
+6. [150 Free Business Courses](https://www.openculture.com/business_free_courses)
