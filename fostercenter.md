@@ -11,7 +11,11 @@
 3. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
 4. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
 5. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
-6. [Signal:Secure Messaging App](https://signal.org/)
+6. [How to create a strong password](https://blog.mozilla.org/firefox/how-to-create-strong-passwords/)
+7. [Signal:Secure Messaging App](https://signal.org/)
+
+### Free Password Managers
+1. [Bitwarden](https://bitwarden.com/)
 
 ### Free Productivity Software Suite
 1. [Libreoffice](https://www.libreoffice.org)
@@ -20,16 +24,7 @@
 ### Install Free and open source software for Microsoft Windows
 1. [Ninite](https://ninite.com)
 
----
-## [Older Americans Presentation](https://www.cisa.gov/sites/default/files/publications/Older%20Americans%20Presentation.pdf)
 
-### Password Security Tips from Firefox
-[How to create a strong password](https://blog.mozilla.org/firefox/how-to-create-strong-passwords/)
-
----
-
-### Password Managers
-1. [Bitwarden](https://bitwarden.com/)
 
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
@@ -45,9 +40,13 @@
 2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 3. [Opera](https://www.opera.com/)
 4. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+5. 
+---
 
 ### Videoconferencing applications
 1. [Jitsi](https://jitsi.org/)
+2. [Zoom](https://zoom.us)
+3. [Google Meet](https://meet.google.com/)
 
 ----
 
