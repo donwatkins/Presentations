@@ -4,12 +4,14 @@
 1. [Microsoft Office Training](https://edu.gcfglobal.org/en/subjects/office/)
 2. [Office 365 Training Resources](https://support.microsoft.com/en-us/training)
 3. [Khan Academy](https://www.khanacademy.org/) 
-4. [Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
-5. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
-6. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
-7. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
-8. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
-9. [Signal:Secure Messaging App](https://signal.org/)
+
+### Free Cybersecurity Resources
+1. [Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
+2. [CISA: National Cybersecurity Infrastructure](https://www.cisa.gov/cybersecurity)
+3. [Smart Phone Security](https://www.fcc.gov/smartphone-security)
+4. [A Healthy Internet is Secure and Private](https://www.mozilla.org/en-US/internet-health/privacy-security/)
+5. [Mobile Security Card Tips](https://www.cisa.gov/sites/default/files/publications/Mobile%20Security%20Tip%20Card_4.pdf)
+6. [Signal:Secure Messaging App](https://signal.org/)
 
 ### Free Productivity Software Suite
 1. [Libreoffice](https://www.libreoffice.org)
