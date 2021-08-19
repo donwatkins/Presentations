@@ -90,16 +90,17 @@
 ---
 ### Free Educational Resources 
 1. [Saylor Academy is a nonprofit initiative working since 2008 to offer free and open online courses to all who want to learn. ](https://www.saylor.org/)
-2. [OER Commons](https://www.oercommons.org/)
-3. [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
-4. [150 Free Online Business Courses](https://www.openculture.com/business_free_courses)
-5. [Massive Open Online Courses](https://www.mooc.org/)
-6. [Free Textbooks at Rice University](https://openstax.org/)
-7. [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)
-8. [Smithsonian Learning Lab](https://learninglab.si.edu/)
-9. [Khan Academy](https://www.khanacademy.org/)
-10. [MIT Open Courseware](https://ocw.mit.edu/high-school/)
-11. [Code Academy](https://www.codecademy.com/)[
+2. [Merlot](https://www.merlot.org/merlot/)
+3. [OER Commons](https://www.oercommons.org/)
+4. [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
+5. [150 Free Online Business Courses](https://www.openculture.com/business_free_courses)
+6. [Massive Open Online Courses](https://www.mooc.org/)
+7. [Free Textbooks at Rice University](https://openstax.org/)
+8. [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)
+9. [Smithsonian Learning Lab](https://learninglab.si.edu/)
+10. [Khan Academy](https://www.khanacademy.org/)
+11. [MIT Open Courseware](https://ocw.mit.edu/high-school/)
+12. [Code Academy](https://www.codecademy.com/)[
 
 ### Low Cost Educational Resources
 1. [Udemy](https://www.udemy.com/)
