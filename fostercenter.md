@@ -1,6 +1,6 @@
 ## Resources for the Foster Center Presentation at St. Bonaventure University
 ### September 15, 2021
-#### [About Don Watkins]{https://donwatkins.github.io/)
+#### [About Don Watkins](https://donwatkins.github.io/)
 
 1. [Microsoft Office Training](https://edu.gcfglobal.org/en/subjects/office/)
 2. [Office 365 Training Resources](https://support.microsoft.com/en-us/training)
