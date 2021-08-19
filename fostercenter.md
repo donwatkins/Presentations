@@ -2,10 +2,9 @@
 ### September 15, 2021
 #### [About Don Watkins](https://donwatkins.github.io/)
 ___
-
+### Microsoft Office Training Materials
 1. [Microsoft Office Training](https://edu.gcfglobal.org/en/subjects/office/)
 2. [Office 365 Training Resources](https://support.microsoft.com/en-us/training)
-3. [Khan Academy](https://www.khanacademy.org/) 
 
 ### Free Cybersecurity Resources
 1. [Khan Academy:Password Security](https://youtu.be/xH4lBPFWkUQ) 
@@ -92,17 +91,18 @@ ___
 ---
 ### Free Educational Resources 
 1. [Saylor Academy is a nonprofit initiative working since 2008 to offer free and open online courses to all who want to learn. ](https://www.saylor.org/)
-2. [Merlot](https://www.merlot.org/merlot/)
-3. [OER Commons](https://www.oercommons.org/)
-4. [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
-5. [150 Free Online Business Courses](https://www.openculture.com/business_free_courses)
-6. [Massive Open Online Courses](https://www.mooc.org/)
-7. [Free Textbooks at Rice University](https://openstax.org/)
-8. [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)
-9. [Smithsonian Learning Lab](https://learninglab.si.edu/)
-10. [Khan Academy](https://www.khanacademy.org/)
-11. [MIT Open Courseware](https://ocw.mit.edu/high-school/)
-12. [Code Academy](https://www.codecademy.com/)[
+2. [Khan Academy](https://www.khanacademy.org/) 
+3. [Merlot](https://www.merlot.org/merlot/)
+4. [OER Commons](https://www.oercommons.org/)
+5. [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
+6. [150 Free Online Business Courses](https://www.openculture.com/business_free_courses)
+7. [Massive Open Online Courses](https://www.mooc.org/)
+8. [Free Textbooks at Rice University](https://openstax.org/)
+9. [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects)
+10. [Smithsonian Learning Lab](https://learninglab.si.edu/)
+11. [Khan Academy](https://www.khanacademy.org/)
+12. [MIT Open Courseware](https://ocw.mit.edu/high-school/)
+13. [Code Academy](https://www.codecademy.com/)[
 
 ### Low Cost Educational Resources
 1. [Udemy](https://www.udemy.com/)
