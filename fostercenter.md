@@ -57,6 +57,7 @@ ___
 4. [Apple MacOS](https://www.apple.com/shop/refurbished/mac)
 5. [Chromebook](https://www.google.com/chromebook/)
 6. [System76 - High quality Linux systems](https://system76.com/)
+7. [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/)
 ----
 
 ### Browser suggestions
