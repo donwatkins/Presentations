@@ -78,7 +78,7 @@ ___
 ----
 
 ### Ad blocking
-1. [Ublock Origin}(https://ublockorigin.com/)
+1. [Ublock Origin](https://ublockorigin.com/)
 2. [Ghostery](https://www.ghostery.com/)
 
 ---
