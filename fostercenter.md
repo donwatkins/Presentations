@@ -78,13 +78,14 @@ ___
 ----
 
 ### Ad blocking
-1. [AdBlock](https://getadblock.com/)
+1. [Ublock Origin}(https://ublockorigin.com/)
 2. [Ghostery](https://www.ghostery.com/)
 
 ---
 
-### Search Engines for privacy
+### Privacy tools
 1. [DuckDuckGo](https://duckduckgo.com/)
+2. [Privacy Badger](https://privacybadger.org/)
 
 ---
 
